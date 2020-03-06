@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+    background: #04a6eb;
+    color: #fdffff;
+    width: 500px;
+    margin: 0 auto;
+}
+
+button {
+    padding: 5px 20px;
+    background-color: #337AB7;
+    border-style: none;
+    color: #fdffff;
+}
+
+input {
+    height: 22px;
+}
